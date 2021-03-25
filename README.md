@@ -1,5 +1,5 @@
 # two-armed-bandit-task
-Code and behavioral protocol for freely-moving 2ABT
+
 
 
 This is an experimental protcol designed within the Sabtini lab of a freely-moving two-armed-bandit task. These files will allow you to build the behavioral arena and begin running 2ABT in mice. 
