@@ -2,8 +2,13 @@
 Code and behavioral protocol for freely-moving 2ABT
 
 
-This is a protcol designed within the Sabtini lab of a freely-moving two-armed-bandit task. 
-Laser cutting plans to build behavioral arena as well as 3D-printing files are locating within "Laser Cutter" folder. 
+This is an experimental protcol designed within the Sabtini lab of a freely-moving two-armed-bandit task. These files will allow you to build the behavioral arena and begin running 2ABT in mice. 
+
+Laser cutting plans to build behavioral arena as well as 3D-printing files are locating within the "laser cutter" folder. 
 Printed Circuit Board (PCB) plans and code is available under the "Two-Armed-Bandit-PCB" repo forked from Harvard Medical School Insrumentation Core.
+Aquisiton code to control the behavioral arena can be found in "Mouse-Bandit-Behavior-markov"
+
 
 Please read "2ABT protocol" for details on behavioral training, learning criterion, and trouble shooting tips.
+
+MATLAB and Arduino IDE is required.
