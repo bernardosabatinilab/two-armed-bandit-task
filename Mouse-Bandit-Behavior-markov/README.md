@@ -14,7 +14,7 @@ Software Requirements:
 
 Hardware Requirements:  
 1. Arduino uno  
-2. Custom circuit (should add instructions to make in this repo)  
+2. Custom circuit (please see Two-Armed-Bandit-PCB repo)  
 
 Other materials:  
 1. 3x IR beam detectors  
