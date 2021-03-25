@@ -1,5 +1,5 @@
 # two-armed-bandit-3PortNosePoke-behaviorCode
-code to run two-armed-bandit mouse behavior. Center port is initiation port, left and right ports are rewarded ports.
+Code to run two-armed-bandit mouse behavior. Center port is initiation port, left and right ports are rewarded ports.
 
 This code was developed by Shay Neufeld and Ofer Mazor
 
