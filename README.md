@@ -12,3 +12,5 @@ Aquisiton code to control the behavioral arena can be found in the "Mouse-Bandit
 Please read "2ABT protocol" for details on behavioral training, learning criterion, and trouble shooting tips.
 
 MATLAB and Arduino IDE is required.
+
+![image](https://user-images.githubusercontent.com/41006280/115396436-f7e28400-a1b2-11eb-9ac5-b1aaf7113d61.png)
